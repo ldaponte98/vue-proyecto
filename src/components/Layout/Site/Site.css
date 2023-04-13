@@ -1,0 +1,16 @@
+.v-image__image--cover {
+    background-size: contain !important;
+}
+a{
+    text-decoration: none;
+}
+.noty_bar{
+    font-family: 'Roboto-Bold';
+}
+.v-app-bar{
+    height: 95px !important;
+    padding-top: 15px;
+}
+.v-main{
+    padding: 96px 0px 0px !important;
+}

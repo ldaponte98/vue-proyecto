@@ -1,0 +1,9 @@
+.v-image__image--cover {
+    background-size: contain !important;
+}
+a{
+    text-decoration: none;
+}
+.noty_bar{
+    font-family: 'Roboto-Bold';
+}

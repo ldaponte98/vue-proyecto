@@ -1,0 +1,13 @@
+#inspire{
+    background: url(https://torreevalor.mx/wp-content/uploads/2014/07/distritov-imagen-fondo-negocios-01.jpg);
+    background-size: cover;
+}
+
+.v-card__actions{
+    padding: 16px !important;
+    padding-top: 0px;
+}
+
+.v-progress-circular{
+    padding: 16px !important;
+}
